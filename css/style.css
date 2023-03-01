@@ -983,6 +983,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hotels .hotel-img img {
   transition: 0.3s ease-in-out;
+   width:400px;
+  height: 300px;
 }
 
 #hotels h3 {
